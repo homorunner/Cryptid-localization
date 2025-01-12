@@ -1113,7 +1113,7 @@ return {
 			j_cry_candy_sticks = {
 				name = "棒棒糖",
 				text = {
-					"直到你打出 {C:attention}#1#{}",
+					"直到你打出 {C:attention}#1#{} 手牌",
 					"下个Boss盲注的效果失效"
 				}
 			},
