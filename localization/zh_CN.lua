@@ -1182,6 +1182,13 @@ return {
 					"{X:mult,C:white} X#1# {} 倍率"
 				}
 			},
+			j_cry_clicked_cookie = {
+				name = "被点击的饼干",
+				text = {
+					"{C:chips}+#1#{} 筹码",
+					"每当该小丑被{C:attention}点击{}时，{C:chips}-#2#{} 筹码",
+				},
+			},
 			j_cry_coin = {
 				name = "加密货币",
 				text = {
