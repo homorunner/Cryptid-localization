@@ -1024,7 +1024,7 @@ return {
 				name = "咚~",
 				text = {
 					"每个{C:attention}小丑{}给予{C:chips}+#1#{}筹码",
-					"如果{C:attention}牌型{}是{C:attention}#3#{}增加{C:chips}+#2#{}",
+					"如果{C:attention}牌型{}是{C:attention}#3#{}，额外给予{C:chips}+#2#{}筹码",
 					"{C:inactive,s:0.8}欢乐小丑转而给予{} {C:chips,s:0.8}+#4#{} {C:inactive,s:0.8}筹码{}"
 				}
 			},
